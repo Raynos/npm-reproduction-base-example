@@ -17,6 +17,7 @@
     "@optoolco/tonic": "13.3.5",
     "ini": "2.0.0",
     "node-fetch": "2.6.1",
+    "tape-harness": "github:Raynos/tape-harness#v5.1.0",
     "tar": "6.1.1"
   }
 }
